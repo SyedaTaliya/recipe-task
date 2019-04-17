@@ -1,0 +1,10 @@
+body{
+    font-family: 'Lora', serif;
+    background-color:#FEF9E7;
+}
+
+img{
+    width:300px;
+    height:200px;
+    border-radius:50%;
+}
